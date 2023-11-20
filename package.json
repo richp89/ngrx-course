@@ -29,7 +29,7 @@
     "@ngrx/effects": "^16.0.1",
     "@ngrx/entity": "^16.0.1",
     "@ngrx/router-store": "^16.0.1",
-    "@ngrx/store": "^16.0.1",
+    "@ngrx/store": "^16.3.0",
     "@ngrx/store-devtools": "^16.0.1",
     "body-parser": "^1.18.2",
     "core-js": "^2.4.1",
